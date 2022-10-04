@@ -1,4 +1,4 @@
-This Linear Program solver was written for CSC445 at the University of Victoria and achieved a grade of 100%. It should be compiled with the provided Makefile by running the command “make” in the directory. The program should be given a linear program to solve via standard input in the format described in the assignment. 
+This Linear Program solver was written for CSC445 at the University of Victoria and achieved a grade of 100%. It should be compiled with the provided Makefile by running the command “make” in the directory. The program should be given a linear program to solve via standard input.
 
 E.g “cat cycle.txt | java LPSolver”
 
